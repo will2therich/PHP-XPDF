@@ -18,7 +18,7 @@
     ],
     "require": {
         "php"                   : ">=5.3.3",
-        "alchemy/binary-driver" : "~5.2"
+        "alchemy/binary-driver" : "dev-master"
     },
     "require-dev": {
         "sami/sami"           : "~1.0",
