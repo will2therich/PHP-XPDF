@@ -5,6 +5,9 @@
 PHP-XPDF is an object oriented wrapper for XPDF. For the moment, only PdfTotext
 wrapper is available.
 
+Forked to work with PHP 8 & Laravel 9... Requires my fork of BinaryDriver
+https://github.com/will2therich/BinaryDriver
+
 ## Installation
 
 It is recommended to install PHP-XPDF through [Composer](http://getcomposer.org) :
